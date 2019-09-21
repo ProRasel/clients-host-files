@@ -6125,7 +6125,7 @@ a.top img{
     width: 1202px !important;
     height: 100%;
     /*padding: 0 0 0 100px;*/
-    background: url(../images/fda_back.png) 50% 0 no-repeat;
+    background: url(http://www.incellderm.com/myoffice/images/os/new_sub/fda_back.png) 50% 0 no-repeat;
     box-sizing: border-box;
 }
 .fda_small{
@@ -6133,7 +6133,7 @@ a.top img{
 }
 .fda_small .ui.grid.container {
 
-    background: url(../images/fda_small_back.png) 50% 0 no-repeat;
+    background: url(http://www.incellderm.com/myoffice/images/os/new_sub/fda_back.png) 50% 0 no-repeat;
 }
 .first07 .ui.box .ui.after-contenter{
     position: relative;
