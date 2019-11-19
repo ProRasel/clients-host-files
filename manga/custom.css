@@ -1,0 +1,71 @@
+  .header h5 {
+     color:white;
+     text-shadow: 2px 2px #0006;
+     font-size: 40px;
+}
+ .header p {
+     color:white;
+     font-size: 70px;
+     text-shadow: 2px 2px #0006;
+}
+ .hero-text{
+     float: right;
+     padding: 120px 120px;
+}
+
+ .manga-des{
+     padding-top: 60px;
+}
+ .manga-des h5{
+     font-size: 40px;
+     font-weight: 700;
+     color: #333;
+     padding-bottom: 10px;
+}
+ .manga-des p{
+     font-size: 18px;
+     color: #333;
+}
+ .text-muted {
+     color: #333!important;
+     font-size: 22px;
+     padding-bottom: 14px;
+}
+ .chapter{
+     padding-top: 25px;
+}
+ .footer{
+     border-top: solid #5dcade;
+     border-width: 15px;
+     background: #2E2E2E;
+     bottom:0;
+     height:100%;
+     width:100%;
+}
+ .text {
+     color: #424242;
+     font-family: Lato;
+     font-size: 40px;
+     text-align: center;
+     margin-top: 25px;
+}
+ .text2 {
+     color: #424242;
+     font-family: Lato;
+     font-size: 20px;
+     text-align: center;
+     padding-bottom: 25px;
+}
+ .text3 {
+     color: #424242;
+     font-family: Lato;
+     font-size: 20px;
+     text-align: center;
+     float: center;
+}
+ #page-footer {
+     display: none !important;
+}
+ .footer{
+     margin-top: 140px;
+}
